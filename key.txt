@@ -1,0 +1,32 @@
+0:lihtne lihtsustamine
+1:lihtne toenaosus
+2:lihtne integraal
+3:lihtne vektor
+4:lihtne eksponent
+5:lihtne logaritm
+6:lihtne geomeetria
+7:lihtne aritmeetiline jada
+8:geomeetriline jada
+9:lihtne funktsioonianaluus
+10:lihtne sirgejm tasandil
+11:lihtne tekstulesanne
+12:trigonomeetrilised funktsioonid
+13:puramiid
+14:lihtne trigonomeetriline lihtsustamine
+15:toenaosus
+16:lihtne vorratus
+17:logaritm
+18:lihtne protsent
+19:lihtne murd
+20:lihtne trigonomeetrilised funktsioonid
+21:lihtne ekstreemum
+22:sirgejm tasandil
+23:integraal
+24:lihtne geomeetriline jada
+25:geomeetria
+26:lihtne piirvaartus
+27:aritmeetiline jada
+28:koonus
+29:liikumine
+30:funktsioonianaluus
+31:lihtne pustprisma
